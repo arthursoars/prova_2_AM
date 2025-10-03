@@ -1,0 +1,1 @@
+Link para o Google Drive contendo os arquivos CSV mencionados nos notebooks (.ipynb) e a base de dados utilizada nos modelos: https://drive.google.com/drive/folders/1dTlP3OvKJglc2HNWQrHFKH1iujkZbGds?usp=drive_link
